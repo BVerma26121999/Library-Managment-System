@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": 1,
+    "name": "Amit Verma",
+    "borrowed_books": [
+      103
+    ]
+  },
+  {
+    "user_id": 2,
+    "name": "Sara Khan",
+    "borrowed_books": []
+  },
+  {
+    "user_id": 3,
+    "name": "John Smith",
+    "borrowed_books": [
+      105
+    ]
+  },
+  {
+    "user_id": 4,
+    "name": "Karan Gupta",
+    "borrowed_books": []
+  }
+]

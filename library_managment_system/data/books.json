@@ -1,0 +1,44 @@
+[
+  {
+    "book_id": 101,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "category": "Classic Literature",
+    "is_issued": false
+  },
+  {
+    "book_id": 102,
+    "title": "Introduction to Python",
+    "author": "John Doe",
+    "category": "Programming",
+    "is_issued": false
+  },
+  {
+    "book_id": 103,
+    "title": "Machine Learning Basics",
+    "author": "A. Sharma",
+    "category": "Technology",
+    "is_issued": true
+  },
+  {
+    "book_id": 104,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "category": "Fiction",
+    "is_issued": false
+  },
+  {
+    "book_id": 105,
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "category": "Self Improvement",
+    "is_issued": true
+  },
+  {
+    "book_id": 106,
+    "title": "bharat",
+    "author": "hindu",
+    "category": "wildstone",
+    "is_issued": false
+  }
+]
